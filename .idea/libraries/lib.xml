@@ -3,20 +3,12 @@
     <CLASSES>
       <root url="file:///usr/share/greenfoot/javafx/lib" />
       <root url="file:///usr/share/greenfoot/stylesheets" />
-      <root url="jar://$USER_HOME$/Downloads/greenfoot-sources-combined/threadchecker.jar!/" />
-      <root url="file:///usr/share/greenfoot" />
-      <root url="file:///usr/share/greenfoot" />
+      <root url="jar:///usr/share/greenfoot/greenfoot.jar!/" />
+      <root url="jar:///usr/share/greenfoot/bluej.jar!/" />
+      <root url="jar:///usr/share/greenfoot/bluejcore.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <NATIVE>
-      <root url="file:///usr/share/greenfoot/javafx/lib" />
-    </NATIVE>
-    <SOURCES>
-      <root url="file:///usr/share/greenfoot/javafx/lib" />
-      <root url="file://$USER_HOME$/Downloads/greenfoot-sources-combined/sources" />
-    </SOURCES>
-    <jarDirectory url="file:///usr/share/greenfoot" recursive="false" />
+    <SOURCES />
     <jarDirectory url="file:///usr/share/greenfoot/javafx/lib" recursive="false" />
-    <jarDirectory url="file:///usr/share/greenfoot/javafx/lib" recursive="false" type="SOURCES" />
   </library>
 </component>
