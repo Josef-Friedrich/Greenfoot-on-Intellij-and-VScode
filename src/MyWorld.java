@@ -1,6 +1,4 @@
-
 import greenfoot.*;
-
 
 public class MyWorld extends World
 {
@@ -17,17 +15,14 @@ public class MyWorld extends World
         addObject(new Mountains(), getWidth() / 2, 384);
         addObject(new Mountains(), getWidth() / 2 + getWidth(), 384);
 
-
         addObject(new Ground(), getWidth() / 2, 384);
         addObject(new Ground(), getWidth() / 2 + getWidth(), 384);
 
         setPaintOrder(FlappyBird.class, Ground.class, TopPipe.class, BottomPipe.class,
                         Mountains.class, Clouds.class);
 
-
         addObject(new FlappyBird(), 200, 384);
     }
-
 
     public void act()
     {
