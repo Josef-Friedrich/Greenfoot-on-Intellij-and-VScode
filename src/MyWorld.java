@@ -47,4 +47,8 @@ public class MyWorld extends World
         int normal = Greenfoot.getRandomNumber(end - start + 1);
         return normal + start;
     }
+
+    public static void main(String[] args) {
+      new MyWorld();
+    }
 }

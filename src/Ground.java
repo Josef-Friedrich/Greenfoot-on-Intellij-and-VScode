@@ -9,6 +9,5 @@ public class Ground extends Background
         GreenfootImage img = new GreenfootImage("layer-3-ground.png");
         img.scale(1536, 768);
         setImage(img);
-
     }
 }

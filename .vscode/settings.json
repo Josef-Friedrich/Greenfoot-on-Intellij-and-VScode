@@ -1,8 +1,15 @@
 {
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
-    "/usr/share/greenfoot/greenfoot.jar",
-    "/usr/share/greenfoot/bluejcore.jar",
-    "/usr/share/greenfoot/bluej.jar"
+    "/usr/share/greenfoot/javafx/lib",
+    "/usr/share/greenfoot/stylesheets",
+    "/usr/share/greenfoot/javafx/lib/javafx-swt.jar",
+    "/usr/share/greenfoot/javafx/lib/javafx.web.jar",
+    "/usr/share/greenfoot/javafx/lib/javafx.swing.jar",
+    "/usr/share/greenfoot/javafx/lib/javafx.media.jar",
+    "/usr/share/greenfoot/javafx/lib/javafx.graphics.jar",
+    "/usr/share/greenfoot/javafx/lib/javafx.fxml.jar",
+    "/usr/share/greenfoot/javafx/lib/javafx.controls.jar",
+    "/usr/share/greenfoot/javafx/lib/javafx.base.jar"
   ]
 }
