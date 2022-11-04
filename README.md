@@ -32,7 +32,7 @@ controls.runonce.shortDescription=Call 'act' once for every actor in the current
 user.name=YourNameHere
 ```
 
-.idea/libraries/lib.xml`
+`.idea/libraries/lib.xml`
 
 ```xml
 <component name="libraryTable">
@@ -48,4 +48,23 @@ user.name=YourNameHere
     <jarDirectory url="file:///usr/share/greenfoot/javafx/lib" recursive="false" />
   </library>
 </component>
-``
+```
+
+`.idea/workspace.xml`
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <component name="RunManager">
+    <configuration name="Run Scenario" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="greenfoot.export.GreenfootScenarioApplication" />
+      <module name="greenfoot" />
+      <option name="VM_PARAMETERS" value="--module-path=/usr/share/greenfoot/javafx/lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
+```
+
